@@ -1,4 +1,4 @@
-# BamazonCustomer
+# [BamazonCustomer](https://github.com/acarrillo4/BamazonCustomer)
 ###### Amazon-like storefront using MySQL and Node.js
 
 ## Requirements
