@@ -24,5 +24,5 @@
 `$ node bamazonCustomer.js`
 
 ###### Follow the on-screen prompts to place an order
-** If there isn't enough inventory to complete your order, you will be notified.
-** You'll then have the option to continue shopping (start over) or close your session
+1. If there isn't enough inventory to complete your order, you will be notified.
+1. You'll then have the option to continue shopping (start over) or close your session
