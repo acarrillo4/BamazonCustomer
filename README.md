@@ -24,11 +24,8 @@
 `$ node bamazonCustomer.js`
 
 ###### Follow the on-screen prompts to place an order
-* If there is enough inventory, you'll be provided a total.  
-  1. The SQL database gets updated accordingly on backend
-  1. You'll then have the option to continue shopping (start over) or close your session
+* If there is enough inventory, you'll be provided a total. The SQL database will get updated accordingly on backend.  You'll then have the option to continue shopping (start over) or close your session
 ###### [Example Video - Processed Order & Continue Shopping](https://www.screencast.com/t/2MQPzb3INA98)
-* If there isn't enough inventory to complete your order, you will be notified.
-    1. You'll then have the option to continue shopping (start over) or close your session
-*  Once user chooses not to continue shopping, they're provided with the updated MYSQL table
+* If there isn't enough inventory to complete your order, you will be notified.  You'll then have the option to continue shopping (start over) or close your session.
+*  Once you choose not to continue shopping, you'll be provided with the updated MYSQL table.
 ###### [Example Video - Insufficient Inventory & Done Shopping](https://www.screencast.com/t/SeIFw2aNhja)
